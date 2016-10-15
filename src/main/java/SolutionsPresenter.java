@@ -5,8 +5,8 @@ public class SolutionsPresenter {
 
         //new Loops();
         //new Arrays();
+        //new Strings();
 
-        new Strings();
-
+        new Aritmetic();
     }
 }
