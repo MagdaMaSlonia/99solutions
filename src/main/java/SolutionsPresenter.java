@@ -6,7 +6,8 @@ public class SolutionsPresenter {
         //new Loops();
         //new Arrays();
         //new Strings();
+        //new Aritmetic();
 
-        new Aritmetic();
+        new Collections();
     }
 }
